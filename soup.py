@@ -1,3 +1,5 @@
+#this is for web scraping, get gas prices in LV-EE region
+
 # %%
 import requests
 import pandas as pd
