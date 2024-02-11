@@ -1,3 +1,5 @@
+#This code was written with the help of my mentor, useful to get stock prices. Current is set for: 'AAPL','MSFT','TWLO','EURRUB=X'
+
 # %%
 import streamlit as st
 import pandas as pd
